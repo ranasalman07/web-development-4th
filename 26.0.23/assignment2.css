@@ -1,0 +1,22 @@
+#b1{
+    padding-left: 500px;
+    background-color: darkgrey;
+    }
+    #b3{
+   
+        padding-right: 800px;
+        padding-left: 200px;
+        float: left;
+        font-size: medium;
+    }
+    #b0{
+        padding-left: 1200px;
+    }
+    img{
+        float: right;
+        padding-right: 150px;
+    }
+    #b2{
+        font-style: oblique;
+       
+    }
