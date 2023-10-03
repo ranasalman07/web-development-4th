@@ -3,4 +3,18 @@ GIT SETUP
 1) Open git bash in the desired or main folder, right click and select open git bash here.
    make sure the path in git bash is set to your desired folder.
 
-2) 
+2) initialize an empty git repository using command "git init"
+
+3) track all changes by using "git add ."
+
+4) make a version of repository by using "git commit"
+   it is a good practice to add a message with commits so use "git commit -m "type msg here"
+
+5) create an account on the github.com
+
+6) create a new repository in github
+
+7) copy the path of that repository
+
+8) add an alias of the url by using 
+   "git remote add alias paste url
