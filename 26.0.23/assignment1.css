@@ -1,0 +1,33 @@
+body{
+    background-image: url("../white.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#b1{
+padding-left: 500px;
+
+}
+#b3{
+    padding-left: 200px;
+    padding-right: 250px;
+    padding-bottom: 70px;
+    font-style: oblique;
+    font-size: large;
+    margin-left: 400px;
+  
+}
+#b0{
+    padding-left: 1200px;
+}
+img{
+    float: left;
+    padding-left: 25px;
+   
+}
+#b2{
+    font-style: oblique;
+    font-size: xx-large;
+}
+mark{
+    background-color: white;
+}
