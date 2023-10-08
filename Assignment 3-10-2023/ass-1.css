@@ -1,16 +1,16 @@
 .con-1{
-    background-color: hotpink;
+    background-color: rgb(200, 117, 147);
     display: flex;
     margin-top: 15px;
     margin-left: 10px;
     flex-direction: row;
     margin-right: 10px;
-    padding: 7%;
+    padding: 6%;
 
 }
 
 .con-2{
-    background-color: darkcyan;
+    background-color: rgb(91, 204, 66);
     padding: 10%;
     float: left;
     padding-left: 70px;
@@ -18,17 +18,21 @@
     margin-top: 15px;
     margin-left: 10px;
     margin-right: 10px;
+    height: 25vh;
+    width: 5vh;
 
  
     
 }
 
 .con-3{
-    background-color: blueviolet;
+    background-color: rgb(95, 68, 202);
     padding: 5%;
     float: right;
-    margin-top: 15px;
+    margin-top: 20px;
     margin-left: 10px;
     margin-right: 10px;
+    width: 144vh;
+    height: 45vh;
 
 }
