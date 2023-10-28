@@ -1,0 +1,40 @@
+
+.con-1{
+    background: #fff;
+    border-radius: 6px;
+    border: 1px solid #d1b3b3;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .04);
+    padding: 24px;
+    margin: auto;
+    width: 25%;
+    height: 400px;
+    padding: 10px;
+    margin-top: 5%;
+    
+}
+img{
+    padding-left: 37%;
+    width: 25%;
+}
+h1{
+    font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-left: 11%;
+}
+.control-label{
+    font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    color: rgb(94, 94, 94);
+}
+input{
+    background-color: rgb(244, 237, 237);
+    height: 8%;
+    margin-top: 3%;
+    width: 90%;
+    margin-left: 15px;
+    border-radius: 1cqmax;
+    border-style: hidden;
+}
+a{
+    color: #0FADFF;
+    font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
