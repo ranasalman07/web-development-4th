@@ -1,4 +1,8 @@
 
+body{
+    background-color: #F7F7F7;
+}
+
 .con-1{
     background: #fff;
     border-radius: 6px;
@@ -26,15 +30,30 @@ h1{
     color: rgb(94, 94, 94);
 }
 input{
-    background-color: rgb(244, 237, 237);
+    background-color: #F7F7F7;
     height: 8%;
     margin-top: 3%;
     width: 90%;
     margin-left: 15px;
-    border-radius: 1cqmax;
+    border-radius: 5px;
     border-style: hidden;
 }
 a{
     color: #0FADFF;
+    font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+    position: relative;
+    margin-left: 22%;
+}
+button{
+    background-color: #0FADFF;
+    color: #fff;
+    margin-left: 37%;
+    width: 25%;
+    height: 10%;
+    border-radius: 2cqmax;
+    border-style: none;
+}
+.para{
+    padding-left: 44%;
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
