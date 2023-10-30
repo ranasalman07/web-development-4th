@@ -117,3 +117,18 @@ button{
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
     text-decoration: none;
 }
+#q1{
+    font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+select{
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius:5px;
+    width: 25vh;
+    font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+  }
+  
+  select:focus{
+    outline:none;
+  }
