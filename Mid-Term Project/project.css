@@ -46,7 +46,7 @@ input{
     border-style: hidden;
     
 }
-a{
+#q{
     color: #0FADFF;
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
     position: relative;
@@ -54,7 +54,7 @@ a{
     text-decoration: none;
 }
 button:hover{
-    background-color: #6269b5;
+    background-color: #7f6cc8;
 }
 button{
     background-color: #0FADFF;
@@ -96,4 +96,24 @@ button{
     grid-gap: 20vh;
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
 
+}
+.font-1{
+    color: #656B73;
+    font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-decoration: none;
+}
+.font-2{
+    color: #656B73;
+    font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-decoration: none;
+}
+.font-3{
+    color: #656B73;
+    font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-decoration: none;
+}
+.font-4{
+    color: #656B73;
+    font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-decoration: none;
 }
