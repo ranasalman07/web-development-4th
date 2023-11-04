@@ -204,60 +204,96 @@ select{
     text-decoration: none;
     position: relative;
   }
+  #advert-1:hover{
+    color: black;
+  }
   #advert-2{
     color: #656B73;
     text-decoration: none;
     position: relative;
+  }
+  #advert-2:hover{
+    color: black;
   }
   #advert-3{
     color: #656B73;
     text-decoration: none;
     position: relative;
   }
+  #advert-3:hover{
+    color: black;
+  }
   #advert-4{
     color: #656B73;
     text-decoration: none;
     position: relative;
+  }
+  #advert-4:hover{
+    color: black;
   }
   #advert-5{
     color: #656B73;
     text-decoration: none;
     position: relative;
   }
+  #advert-5:hover{
+    color: black;
+  }
   #legal-1{
     color: #656B73;
     text-decoration: none;
     position: relative;
+  }
+  #legal-1:hover{
+    color: black;
   }
   #legal-2{
     color: #656B73;
     text-decoration: none;
     position: relative;
   }
+  #legal-2:hover{
+    color: black;
+  }
   #legal-3{
     color: #656B73;
     text-decoration: none;
     position: relative;
+  }
+  #legal-3:hover{
+    color: black;
   }
   #legal-4{
     color: #656B73;
     text-decoration: none;
     position: relative;
   }
+  #legal-4:hover{
+    color: black;
+  }
   #legal-5{
     color: #656B73;
     text-decoration: none;
     position: relative;
+  }
+  #legal-5:hover{
+    color: black;
   }
   #legal-6{
     color: #656B73;
     text-decoration: none;
     position: relative;
   }
+  #legal-6:hover{
+    color: black;
+  }
   #legal-7{
     color: #656B73;
     text-decoration: none;
     position: relative;
+  }
+  #legal-7:hover{
+    color: black;
   }
   .con-3{
     background-color: rgb(34, 32, 32);
