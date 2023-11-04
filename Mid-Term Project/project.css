@@ -237,21 +237,33 @@ select{
     position: relative;
   }
   .con-3{
-    background-color: black;
+    background-color: rgb(34, 32, 32);
     height: 10vh;
   }
   #last{
     position: relative;
-    margin-left: 15vh;
+    margin-left: 30vh;
     text-decoration: none;
     color: #656B73;
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+  }
+  #last:hover{
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-color: yellow;
+    text-decoration-thickness: 2px;
   }
   #last-1{
     position: relative;
     text-decoration: none;
     color: #656B73;
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+  }
+  #last-1:hover{
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-color: yellow;
+    text-decoration-thickness: 2px;
   }
   
   
