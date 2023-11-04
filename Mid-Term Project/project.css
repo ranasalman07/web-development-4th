@@ -12,7 +12,7 @@ body{
     width: 22%;
     height: 350px;
     padding: 10px;
-    margin-top: 4%;
+    margin-top:3%;
     
 }
 img{
@@ -74,26 +74,39 @@ button{
     background-color: #ffffff;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 4fr;
-    height: 37vh;
-    width:
+    height: 42vh;
+    margin-bottom: 10vh;
+    
+    
 }
 .sc-1{
-    grid-gap: 20vh;
+    margin-left: 30vh;
+    margin-right: 11vh;
+    margin-top: 5vh;
+    grid-gap: 10vh;
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+    
 
 }
 .sc-2{
-    grid-gap: 20vh;
+    grid-gap: 10vh;
+    margin-top: 5vh;
+    margin-right: 7vh;
+    width: 30vh;
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
 
 }
 .sc-3{
-    grid-gap: 20vh;
+    grid-gap: 10vh;
+    margin-top: 5vh;
+    width: 30vh;
+    margin-right: 7vh;
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
 
 }
 .sc-4{
-    grid-gap: 20vh;
+    grid-gap: 10vh;
+    margin-top: 5vh;
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
 
 }
@@ -101,6 +114,7 @@ button{
     color: #656B73;
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
     text-decoration: none;
+    
 }
 .font-2{
     color: #656B73;
@@ -132,3 +146,53 @@ select{
   select:focus{
     outline:none;
   }
+  #comp-1{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #comp-2{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #comp-3{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #comm-1{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #comm-2{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #comm-3{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  .con-3{
+    background-color: black;
+    height: 10vh;
+  }
+  #last{
+    position: relative;
+    margin-left: 15vh;
+    text-decoration: none;
+    color: #656B73;
+    font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+  }
+  #last-1{
+    position: relative;
+    text-decoration: none;
+    color: #656B73;
+    font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+  }
+  
+  
+  
