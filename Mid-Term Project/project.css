@@ -75,7 +75,7 @@ button{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 4fr;
     height: 42vh;
-    margin-bottom: 10vh;
+    
     
     
 }
@@ -172,6 +172,66 @@ select{
     position: relative;
   }
   #comm-3{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #advert-1{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #advert-2{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #advert-3{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #advert-4{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #advert-5{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #legal-1{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #legal-2{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #legal-3{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #legal-4{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #legal-5{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #legal-6{
+    color: #656B73;
+    text-decoration: none;
+    position: relative;
+  }
+  #legal-7{
     color: #656B73;
     text-decoration: none;
     position: relative;
