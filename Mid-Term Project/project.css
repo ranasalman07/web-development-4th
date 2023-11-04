@@ -66,6 +66,11 @@ button{
     border-style: none;
 
 }
+#signup{
+    color: black;
+    font-weight: 510;
+    text-decoration: none;
+}
 .para{
     padding-left: 44%;
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -151,30 +156,48 @@ select{
     text-decoration: none;
     position: relative;
   }
+  #comp-1:hover{
+    color: black;
+  }
   #comp-2{
     color: #656B73;
     text-decoration: none;
     position: relative;
+  }
+  #comp-2:hover{
+    color: black;
   }
   #comp-3{
     color: #656B73;
     text-decoration: none;
     position: relative;
   }
+  #comp-3:hover{
+    color: black;
+  }
   #comm-1{
     color: #656B73;
     text-decoration: none;
     position: relative;
+  }
+  #comm-1:hover{
+    color: black;
   }
   #comm-2{
     color: #656B73;
     text-decoration: none;
     position: relative;
   }
+  #comm-2:hover{
+    color: black;
+  }
   #comm-3{
     color: #656B73;
     text-decoration: none;
     position: relative;
+  }
+  #comm-3:hover{
+    color: black;
   }
   #advert-1{
     color: #656B73;
