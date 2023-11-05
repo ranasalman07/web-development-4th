@@ -1,6 +1,6 @@
 
 body{
-    background-color: #F7F7F7;
+    background-color: #F2F2F2;
 }
 
 .con-1{
@@ -13,6 +13,8 @@ body{
     height: 350px;
     padding: 10px;
     margin-top:3%;
+    box-shadow: #656B73 10vh;
+    
     
 }
 img{
@@ -21,6 +23,9 @@ img{
 }
 h1{
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #16191c;
     margin-left: 14%;
     font-size: 170%;
 }
@@ -32,9 +37,10 @@ h1{
     padding-left: 17px;
 }
 input:hover{
-    border-radius: 1px;
+    border-radius: 5px;
     border-style:solid;
     border-color: #0FADFF;
+    border-width: 1px;
 }
 input{
     background-color: #F7F7F7;
@@ -52,6 +58,7 @@ input{
     position: relative;
     margin-left: 22%;
     text-decoration: none;
+    font-weight: bold;
 }
 button:hover{
     background-color: #7f6cc8;
@@ -68,12 +75,14 @@ button{
 }
 #signup{
     color: black;
-    font-weight: 510;
+    font-weight: 600;
+    font-style: normal;
     text-decoration: none;
 }
 .para{
     padding-left: 44%;
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
 }
 .con-2{
     background-color: #ffffff;
@@ -296,12 +305,14 @@ select{
     color: black;
   }
   .con-3{
-    background-color: rgb(34, 32, 32);
+    background-color: #262626;
     height: 10vh;
+    width: 100%;
   }
   #last{
     position: relative;
     margin-left: 30vh;
+    margin-right: 3vh;
     text-decoration: none;
     color: #656B73;
     font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -323,6 +334,49 @@ select{
     text-decoration-line: underline;
     text-decoration-color: yellow;
     text-decoration-thickness: 2px;
+  }
+
+
+
+
+  @media(max-width: 952px)
+  {
+    .con-1{
+      width: 45vh;
+      margin-top: 7vh;
+    }
+    .para{
+      padding-left: 38%;
+    }
+    .sc-1{
+      margin-left: 4vh;
+      width: 10vh;
+      margin-right: 13vh;
+    }
+    .sc-2{
+      width: 17vh;
+      margin-right: 7vh;
+    }
+    .sc-3{
+      width: 20vh;
+      margin-right: 5vh;
+    }
+    .sc-4{
+      width: 17vh;
+    }
+    .con-2{
+      height: fit-content;
+    }
+    #q1{
+      margin-top: 8vh;
+    }
+    select{
+      width: 18vh;
+
+    }
+    #last{
+      margin-left: 4vh;
+    }
   }
   
   
