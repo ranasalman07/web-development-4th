@@ -1,9 +1,0 @@
-.underline-on-mouseout {
-    text-decoration: underline;
-  }
-  
-  .underline-on-mouseout:not(:hover) {
-    text-decoration: none; /* Initially, underline the text, and remove it when not hovering */
-    transition: text-decoration 0.3s; /* Add a smooth transition for the underline */
-  }
-  
