@@ -1,5 +1,4 @@
 //Task 01
-
 // var result = 50;
 // if (result > 40){
 //     console.log("Congratulations you are passed");
@@ -11,7 +10,6 @@
 
 
 //Task 02
-
 // var age = 10;
 // if( age >=65 ){
 //     console.log("You get your income from your pension");
@@ -29,7 +27,6 @@
 
 
 //Task 03
-
 // var place = 'first';
 // switch(place){
 //     case 'first':
@@ -85,7 +82,6 @@
 
 
 //Task 06
-
 // var counter=3;
 // while (counter >  0){
 //     console.log(counter);
@@ -104,18 +100,63 @@
 
 
 //Task 08
-for(var i=1 ; i<=10 ; i++){
-switch(i){
-case 1:
-console.log('Gold Medal')
- break;
-case 2:
-console.log('Silver Medal')
-break;
-case 3:
-console.log('Bronze Medal')
-break;
-default:
-    console.log(i);
-}
-}
+// for(var i=1 ; i<=10 ; i++){
+// switch(i){
+// case 1:
+// console.log('Gold Medal')
+//  break;
+// case 2:
+// console.log('Silver Medal')
+// break;
+// case 3:
+// console.log('Bronze Medal')
+// break;
+// default:
+//     console.log(i);
+// }
+// }
+
+
+
+//Task 09
+// function addTwoNums(){
+// var a = 10;
+// var b = 20;
+// var c = a + b;
+// console.log(c);
+// }
+// addTwoNums();
+
+
+
+//Task 10
+// function addTwoNums(a,b){
+//     var c = a + b;
+//     console.log(c);
+//     }
+//     addTwoNums(5,5);
+    
+
+
+//Task 11
+// var train1 = ["Wheat","Barley","Potato","Salt","Rocks"];
+// for (var i=0 ; i<5 ; i++){
+//     console.log(train1[i]);}
+// console.log(typeof(train1));
+
+
+
+//Task 12
+// function listArrayItems(arr){
+//     for (var i=0 ; i<arr.length ; i++){
+//         console.log(arr[i]);
+//     }
+// }
+// var color = ['red','blue','pink','yellow','orange'];
+// listArrayItems(color);
+// var train1 = ["Wheat","Barley","Potato","Salt","Rocks"];
+// listArrayItems(train1);
+
+
+
+//Task 13
