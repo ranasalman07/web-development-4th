@@ -160,14 +160,67 @@
 
 
 //Task 13
-function LetterFinder(word,match){
-    for(var i=0 ; i<word.length ; i++){
-        if(word[i]===match){
-            console.log("Found the",match,"at index",i);
-        }
-        else{
-            console.log("--No match found at index ",i);
-        }
-    }
-}
-LetterFinder('Salman','a');
+// function LetterFinder(word,match){
+//     for(var i=0 ; i<word.length ; i++){
+//         if(word[i]===match){
+//             console.log("Found the",match,"at index",i);
+//         }
+//         else{
+//             console.log("--No match found at index ",i);
+//         }
+//     }
+// }
+// LetterFinder('Salman','a');
+
+
+
+//Task 14
+// var table ={
+//     legs: 3,
+//     color:"brown",
+//     PriceUSD: 100,
+// }
+// console.log(table);
+// console.log(table.color);
+
+
+//Task 15
+// var car ={};
+// car.color="red";
+// car["color"]="green";
+// car["speed"]=200;
+// car.speed=100;
+// console.log(car);
+
+
+
+//Task 16
+// var arrOfKeys=['speed','altitude','color'];
+// var drone={
+//     speed: 100,
+//     altitude:200,
+//     color:"red"
+// }
+// for(var i=0 ; i<arrOfKeys.length ; i++){
+//     console.log(drone[arrOfKeys[i]]);
+// }
+
+
+//Task 17
+// var fruits=[];
+// fruits.push("apple");
+// fruits.push("pear");
+// fruits.pop();
+// console.log(fruits);
+
+
+//Task 18
+// function arrayBuilder(one,two,three){
+//     var arr=[];
+//     arr.push(one);
+//     arr.push(two);
+//     arr.push(three);
+//     return arr;
+// }
+// var simpleArr=arrayBuilder('apple','pear','plum');
+// console.log(simpleArr);
