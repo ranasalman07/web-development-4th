@@ -48,29 +48,74 @@
 
 
 //Task 04
-var day = 'sunday';
-switch (day){
-    case 'monday':
-        console.log('First day of week');
-        break;
-    case 'tuesday':
-        console.log('Second day of week');
-        break;
-    case 'wednesday':
-        console.log('Third day of week');
-        break;
-    case 'thursday':
-        console.log('Fourth day of week');
-        break;
-    case 'friday':
-        console.log('Fifth day of week');
-        break;
-    case 'saturday':
-        console.log('Sixth day of week');
-        break;
-    case 'sunday':
-        console.log('Seventh day of week');
-        break;
-    default:
-        console.log('There is no such day in week');
+// var day = 'sunday';
+// switch (day){
+//     case 'monday':
+//         console.log('First day of week');
+//         break;
+//     case 'tuesday':
+//         console.log('Second day of week');
+//         break;
+//     case 'wednesday':
+//         console.log('Third day of week');
+//         break;
+//     case 'thursday':
+//         console.log('Fourth day of week');
+//         break;
+//     case 'friday':
+//         console.log('Fifth day of week');
+//         break;
+//     case 'saturday':
+//         console.log('Sixth day of week');
+//         break;
+//     case 'sunday':
+//         console.log('Seventh day of week');
+//         break;
+//     default:
+//         console.log('There is no such day in week');
+// }
+
+
+
+//Task 05
+// for(var i=1 ; i<6 ; i++){
+//     console.log("Salman");
+// }
+
+
+
+//Task 06
+
+// var counter=3;
+// while (counter >  0){
+//     console.log(counter);
+//     counter=counter-1;
+// }
+
+
+
+//Task 07
+// for (var i=0 ; i<2 ; i++){
+//     for (var j=1 ; j<=7 ; j++){
+//         console.log("Week " + i + " - Day " + j);
+//     }
+// }
+
+
+
+//Task 08
+for(var i=1 ; i<=10 ; i++){
+switch(i){
+case 1:
+console.log('Gold Medal')
+ break;
+case 2:
+console.log('Silver Medal')
+break;
+case 3:
+console.log('Bronze Medal')
+break;
+default:
+    console.log(i);
+}
 }
