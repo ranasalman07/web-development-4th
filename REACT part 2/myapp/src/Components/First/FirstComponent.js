@@ -8,6 +8,7 @@ const FirstComponent = (props) => {
     </div>
     <h1>REACT {props.abc}</h1>
     {console.log(props.abc)}
+    <button onClick={props.clik}>My Button</button>
     </>
   )
 }
