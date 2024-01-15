@@ -1,7 +1,7 @@
 //Task 01
 // Math.random();
 // Math.trunc(decimal);
-// var decimal = Math.trunc(Math.random()*1000);
+// var decimal = Math.trunc(Math.random()*10);
 // console.log(decimal);
 
 
@@ -40,6 +40,7 @@
 // clothes.pop("waistcoat");
 // clothes.push("overcoat");
 // console.log(clothes);
+// console.log(clothes[0]);
 // console.log(clothes[2]);
 
 
@@ -53,19 +54,22 @@
 
 
 //Task 07
-var car={};
-car.mileage=19750;
-car.color="Black";
-console.log(car);
-car.turnTheKey=function( i=1){
-    if(i === 1 ){
+const car = {};
+car.mileage = 19750;
+car.color = "Black";
+car.turnTheKey = function(i ) {
+  if (i === 1) {
     console.log("The engine is running");
-}
-else
-}
-car.lightsOn=function(){
-    console.log("THe lights are on");
-}
-console.log(car);
-car.turnTheKey(1);
-car.lightsOn();
+  } else {
+    console.log("The engine is not running");
+  }
+};
+car.lightsOn = function( j ) {
+  if (j===2){
+    console.log("The lights are on");}
+    else{
+        console.log("THe lights are off");
+    }
+};
+car.turnTheKey(1); 
+car.lightsOn(2);

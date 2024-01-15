@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+.a{
+display: flex;
+background-color: blueviolet;
+width: 500px;
+height: 100px;
+}

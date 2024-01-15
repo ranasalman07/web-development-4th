@@ -135,6 +135,7 @@
 //     console.log(c);
 //     }
 //     addTwoNums(5,5);
+//     addTwoNums(10,65);
     
 
 
@@ -142,6 +143,7 @@
 // var train1 = ["Wheat","Barley","Potato","Salt","Rocks"];
 // for (var i=0 ; i<5 ; i++){
 //     console.log(train1[i]);}
+//     console.log(train1);
 // console.log(typeof(train1));
 
 
@@ -182,6 +184,7 @@
 // }
 // console.log(table);
 // console.log(table.color);
+// console.log(table.legs);
 
 
 //Task 15
@@ -201,7 +204,7 @@
 //     altitude:200,
 //     color:"red"
 // }
-// for(var i=0 ; i<arrOfKeys.length ; i++){
+// for(var i=0 ; i<3 ; i++){
 //     console.log(drone[arrOfKeys[i]]);
 // }
 
@@ -210,7 +213,10 @@
 // var fruits=[];
 // fruits.push("apple");
 // fruits.push("pear");
-// fruits.pop();
+// fruits.push("banana");
+// fruits.push("pineapple");
+// fruits.push("mango");
+// fruits.splice(1,3);
 // console.log(fruits);
 
 
